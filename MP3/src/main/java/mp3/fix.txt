@@ -1,0 +1,6 @@
+multiAspect class client make setGameType private
+
+multiinheritance change example
+
+for abstract i need some business logic for method obtain
+
