@@ -1,0 +1,7 @@
+qualified - bookRestoration -> done
+
+basic - BookForLearning -> done
+
+Composition - Opinion -> done
+
+With an attribute - Customer -> done
