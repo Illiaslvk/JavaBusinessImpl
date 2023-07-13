@@ -1,2 +1,3 @@
 # MAS
-![image](https://github.com/Illiaslvk/MAS/assets/101345368/fec50576-1476-4c7d-aad3-65f199b78545)
+![image](https://github.com/Illiaslvk/MAS/assets/101345368/c39a2943-706a-435c-bc35-9aade9e127d9)
+
