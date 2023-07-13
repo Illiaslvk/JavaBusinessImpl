@@ -1,0 +1,16 @@
+Library - Basic class -> LibraryRepositoryTest
+
+Book - LearningBook - LibrarySource -> abstract inheritance -> BookRepositoryTest
+
+Book - Library -> Basic Association -> AssociationTest
+
+Book Customer Purchase-> Association with attribute
+Many-to-Many Association:
+"Book" can have multiple "Reservations" (Many-to-Many relationship).
+"Reservation" can be associated with multiple "Books" (Many-to-Many relationship).
+
+One-to-Many Association:
+"Customer" can have multiple "Reservations" (One-to-Many relationship).
+"Reservation" belongs to a single "Customer" (Many-to-One relationship).
+
+Book - Opinion -> composition
